@@ -50,8 +50,3 @@ True Negative Rate: Correctly predicts 90% of customers who will not purchase.
 
 True Positive Rate: Correctly identifies 77% of customers who will purchase.
 
------------------------------------------------------------------------------------------
-One Last Tip:
-Before you commit this `README.md` to GitHub, ensure that `final_code.py` and `online_shoppers_intention.csv` are actually in the root folder of that specific repository, or update the path in the `README.md` if they are tucked inside a subfolder! 
-
-You are now fully prepared to present these projects to recruiters. You have the code, the documentation, and the cloud-deployed API. **Go get those interviews!
